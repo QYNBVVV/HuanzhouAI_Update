@@ -5,10 +5,10 @@
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
   "title": "幻昼1.1公测版本",
-  "description": "幻昼1.1公测版本",
+  "description": "- 将表情包数量限制范围收紧为 0-5，0 为禁用表情包输出\n- 将聊天生成状态文案从“正在思考...”改为“正在输入中...”\n- 复用现有上下文摘要存储，增强长对话摘要缓存机制，减少历史 token 消耗\n- 优化暗色模式\n- 优化平板横屏状态下的角色页面\n- 添加公益API站，使用方法：API设置，公益API，不用填密钥直接获取模型，选择完测试确认使用\n- 优化token消耗显示",
   "apkUrl": "https://raw.githubusercontent.com/QYNBVVV/HuanzhouAI_Update/main/app-debug.apk",
-  "apkSize": 29842489,
-  "sha256": "c1c25e3c2ac873e4a170a1ae8884bf25d82142593c23420de63f0c42365316f7",
+  "apkSize": 30960018,
+  "sha256": "66ecc8abc09abaf0af43571a2d778561a8a277802a83e28ebab553ae07e6604b",
   "releasePageUrl": "https://github.com/QYNBVVV/HuanzhouAI_Update/releases",
-  "publishedAt": "2026-07-15 11:02:18"
+  "publishedAt": "2026-07-15 14:37:41"
 }
