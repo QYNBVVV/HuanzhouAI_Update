@@ -4,11 +4,11 @@
   "latestVersionName": "1.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "title": "当前已是最新版本",
-  "description": "当前版本为首次接入远程更新框架。后续发布新版 APK 后，请更新 latestVersionCode、latestVersionName、apkUrl、apkSize 与 sha256。",
-  "apkUrl": "",
-  "apkSize": 0,
-  "sha256": "",
+  "title": "幻昼1.0公测版本",
+  "description": "幻昼1.0公测版本",
+  "apkUrl": "https://raw.githubusercontent.com/QYNBVVV/HuanzhouAI_Update/main/app-debug.apk",
+  "apkSize": 33391314,
+  "sha256": "07c393fd3d7a542efc5034ecb12d90ce5fe425b97fdb18f454a2ba72584cd08a",
   "releasePageUrl": "https://github.com/QYNBVVV/HuanzhouAI_Update/releases",
-  "publishedAt": "2026-07-07 00:00:00"
+  "publishedAt": "2026-07-15 11:02:18"
 }

@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "version": 1,
-  "title": "幻昼 AI 公告",
-  "content": "远程公告系统已接入。后续公告可直接修改本文件，无需重新打包 APP。",
+  "version": 2,
+  "title": "幻昼1.0公测版本",
+  "content": "幻昼1.0公测版本",
   "level": "normal",
   "showOnce": true,
-  "startAt": "2026-07-07 00:00:00",
+  "startAt": "2026-07-15 11:02:18",
   "endAt": "2099-12-31 23:59:59"
 }
